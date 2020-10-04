@@ -1,0 +1,4 @@
+ZDOTDIR=$HOME/.config/zsh
+PATH=$PATH:~/bin
+_FASD_DATA=$HOME/.config/fasd
+EDITOR=nvim
