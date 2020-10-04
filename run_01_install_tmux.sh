@@ -1,14 +1,7 @@
-#!/usr/bin/env bash
-set -e
-set -u
-set -o pipefail
-
+#!/bin/sh
 is_app_installed() {
   type "$1" &>/dev/null
 }
-
-REPODIR="$(cd "$(dirname "$0")"; pwd -P)"
-cd "$REPODIR";
 
 if ! is_app_installed tmux; then
   printf "WARNING: \"tmux\" command is not found. \
