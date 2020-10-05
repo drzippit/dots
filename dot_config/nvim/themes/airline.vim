@@ -51,7 +51,3 @@ let g:airline_section_a = " NVCode"
 " let g:airline_section_a = ""
 let g:airline_section_y = ''
 let g:webdevicons_enable_airline_tabline = 1
-
-hi! Normal ctermbg=NONE guibg=NONE
-hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
-
