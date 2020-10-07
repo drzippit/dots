@@ -1,6 +1,12 @@
 # Zippit's dotfiles and config
 This where I keep my dotfiles managed by [Chezmoi!](https://github.com/twpayne/chezmoi)
 
+It will install a config that uses ZSH as the shell and [Prezto](https://github.com/sorin-ionescu/prezto) as the framework behind it. Prezto will autostart with a TMUX session with some plugins preinstalled for a nice status bar.
+NeoVIM is my editor of choice and comes with a lot of plugins and keybinding.
+My terminal of choice is Alacritty because it uses the same config on Linux and MacOS.
+
+Finally, the terminal and NVim are both themed with the beautiful [Nord](https://www.nordtheme.com/)
+
 # Prerequisites
 ## Packages
 * [chezmoi](https://github.com/twpayne/chezmoi) (duh!)
