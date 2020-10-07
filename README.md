@@ -15,11 +15,17 @@ Finally, the terminal and NVim are both themed with the beautiful [Nord](https:/
 * [nvim](https://github.com/neovim/neovim)
   * [Python client](https://pypi.org/project/neovim)
     * pip3 install neovim
+  * Pynvim
+    * pip3 install pynvim
   * [Nodejs](https://nodejs.org/en/download/)
     * brew install node
   * [ranger](https://github.com/ranger/ranger)
+  * npm
+    * npm install -g neovim
+  
 * [Lastpass-cli](https://github.com/lastpass/lastpass-cli)
 * [alacritty](https://github.com/alacritty/alacritty)
+  * Nerd font complete
 
 # Installation
 
