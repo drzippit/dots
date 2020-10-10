@@ -27,3 +27,4 @@ let g:startify_bookmarks = [
             \ ]
 
 let g:startify_enable_special = 0
+" let g:startify_session_dir = '~/.config/nvim/sessions'

@@ -15,3 +15,4 @@ source $HOME/.config/nvim/plug-config/easy-motion.vim
 source $HOME/.config/nvim/plug-config/window-swap.vim
 source $HOME/.config/nvim/plug-config/rnvimr.vim
 source $HOME/.config/nvim/plug-config/subversive.vim
+source $HOME/.config/nvim/plug-config/workspace.vim
